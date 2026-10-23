@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { ErrorProps } from './../../../.svelte-kit/types/src/routes/$types.d.ts';
 	import { Button } from '#components';
 	import type { ActionData } from '../../routes/register/$types';
 
