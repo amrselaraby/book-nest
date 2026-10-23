@@ -15,7 +15,7 @@
 			Our app offers a beautifully designed, easy-to-use interface that makes managing your book
 			collection a joy.
 		</h4>
-		<Button>Sign up</Button>
+		<Button href="/register">Sign up</Button>
 	</div>
 	<img src={heroImage} class="hero-image" alt="" />
 </section>
